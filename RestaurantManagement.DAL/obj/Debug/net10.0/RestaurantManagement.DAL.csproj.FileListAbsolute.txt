@@ -1,0 +1,14 @@
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net10.0\RestaurantManagement.DAL.deps.json
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net10.0\RestaurantManagement.DAL.runtimeconfig.json
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net10.0\RestaurantManagement.DAL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net10.0\RestaurantManagement.DAL.pdb
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.AssemblyInfo.cs
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\refint\RestaurantManagement.DAL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.pdb
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\RestaurantManagement.DAL.genruntimeconfig.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net10.0\ref\RestaurantManagement.DAL.dll
