@@ -1,0 +1,15 @@
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\bin\Debug\net10.0\RestaurantManagement.BLL.deps.json
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\bin\Debug\net10.0\RestaurantManagement.BLL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\bin\Debug\net10.0\RestaurantManagement.BLL.pdb
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\bin\Debug\net10.0\RestaurantManagement.DAL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\bin\Debug\net10.0\RestaurantManagement.DAL.pdb
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.AssemblyInfo.cs
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\Restaura.C5A96EEF.Up2Date
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\refint\RestaurantManagement.BLL.dll
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\RestaurantManagement.BLL.pdb
+C:\Users\Emil\source\repos\RestaurantManagement\RestaurantManagement.BLL\obj\Debug\net10.0\ref\RestaurantManagement.BLL.dll
